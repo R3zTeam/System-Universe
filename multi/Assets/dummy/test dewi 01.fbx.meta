@@ -1,0 +1,1043 @@
+fileFormatVersion: 2
+guid: 9d77dc7a87ee09145b93ef5092cce957
+timeCreated: 1522219957
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bahu.L
+    100002: Bahu.R
+    100004: Betis.L
+    100006: Betis.L_end
+    100008: Betis.R
+    100010: Betis.R_end
+    100012: Bone
+    100014: Bone.001
+    100016: Bone.002
+    100018: Bone.002_end
+    100020: Bone.025
+    100022: Bone.026
+    100024: Bone.027
+    100026: Bone.027_end
+    100028: Ctrl_Kaki.L
+    100030: Ctrl_Kaki.R
+    100032: Cube
+    100034: Cube.001
+    100036: Cube.002
+    100038: Cube.003
+    100040: Cube.004
+    100042: Dada
+    100044: Dewi_RIG
+    100046: Kaki_Atas.L
+    100048: Kaki_Atas.R
+    100050: Kaki_Bawah.L
+    100052: Kaki_Bawah.L_end
+    100054: Kaki_Bawah.R
+    100056: Kaki_Bawah.R_end
+    100058: Kelingking01.L
+    100060: Kelingking01.R
+    100062: Kelingking02.L
+    100064: Kelingking02.R
+    100066: Kelingking03.L
+    100068: Kelingking03.L_end
+    100070: Kelingking03.R
+    100072: Kelingking03.R_end
+    100074: Kepala
+    100076: Kepala_end
+    100078: Leher
+    100080: Manis01.L
+    100082: Manis01.R
+    100084: Manis02.L
+    100086: Manis02.R
+    100088: Manis03.L
+    100090: Manis03.L_end
+    100092: Manis03.R
+    100094: Manis03.R_end
+    100096: Paha.L
+    100098: Paha.R
+    100100: Perut
+    100102: Pinggang
+    100104: Pole.L
+    100106: Pole.L_end
+    100108: Pole.R
+    100110: Pole.R_end
+    100112: Tangan.L
+    100114: Tangan.R
+    100116: Tangan_Atas.L
+    100118: Tangan_Atas.R
+    100120: Tangan_Bawah.L
+    100122: Tangan_Bawah.R
+    100124: Telunjuk01.L
+    100126: Telunjuk01.R
+    100128: Telunjuk02.L
+    100130: Telunjuk02.R
+    100132: Telunjuk03.L
+    100134: Telunjuk03.L_end
+    100136: Telunjuk03.R
+    100138: Telunjuk03.R_end
+    100140: Tengah01.L
+    100142: Tengah01.R
+    100144: Tengah02.L
+    100146: Tengah02.R
+    100148: Tengah03.L
+    100150: Tengah03.L_end
+    100152: Tengah03.R
+    100154: Tengah03.R_end
+    100156: //RootNode
+    400000: Bahu.L
+    400002: Bahu.R
+    400004: Betis.L
+    400006: Betis.L_end
+    400008: Betis.R
+    400010: Betis.R_end
+    400012: Bone
+    400014: Bone.001
+    400016: Bone.002
+    400018: Bone.002_end
+    400020: Bone.025
+    400022: Bone.026
+    400024: Bone.027
+    400026: Bone.027_end
+    400028: Ctrl_Kaki.L
+    400030: Ctrl_Kaki.R
+    400032: Cube
+    400034: Cube.001
+    400036: Cube.002
+    400038: Cube.003
+    400040: Cube.004
+    400042: Dada
+    400044: Dewi_RIG
+    400046: Kaki_Atas.L
+    400048: Kaki_Atas.R
+    400050: Kaki_Bawah.L
+    400052: Kaki_Bawah.L_end
+    400054: Kaki_Bawah.R
+    400056: Kaki_Bawah.R_end
+    400058: Kelingking01.L
+    400060: Kelingking01.R
+    400062: Kelingking02.L
+    400064: Kelingking02.R
+    400066: Kelingking03.L
+    400068: Kelingking03.L_end
+    400070: Kelingking03.R
+    400072: Kelingking03.R_end
+    400074: Kepala
+    400076: Kepala_end
+    400078: Leher
+    400080: Manis01.L
+    400082: Manis01.R
+    400084: Manis02.L
+    400086: Manis02.R
+    400088: Manis03.L
+    400090: Manis03.L_end
+    400092: Manis03.R
+    400094: Manis03.R_end
+    400096: Paha.L
+    400098: Paha.R
+    400100: Perut
+    400102: Pinggang
+    400104: Pole.L
+    400106: Pole.L_end
+    400108: Pole.R
+    400110: Pole.R_end
+    400112: Tangan.L
+    400114: Tangan.R
+    400116: Tangan_Atas.L
+    400118: Tangan_Atas.R
+    400120: Tangan_Bawah.L
+    400122: Tangan_Bawah.R
+    400124: Telunjuk01.L
+    400126: Telunjuk01.R
+    400128: Telunjuk02.L
+    400130: Telunjuk02.R
+    400132: Telunjuk03.L
+    400134: Telunjuk03.L_end
+    400136: Telunjuk03.R
+    400138: Telunjuk03.R_end
+    400140: Tengah01.L
+    400142: Tengah01.R
+    400144: Tengah02.L
+    400146: Tengah02.R
+    400148: Tengah03.L
+    400150: Tengah03.L_end
+    400152: Tengah03.R
+    400154: Tengah03.R_end
+    400156: //RootNode
+    2100000: Material.001
+    2100002: Material
+    2300000: Cube.001
+    3300000: Cube.001
+    4300000: Cube.001
+    4300002: Cube.004
+    4300004: Cube.003
+    4300006: Cube.002
+    4300008: Cube
+    7400000: Dewi_RIG|Dewi_Kecil_Idle
+    7400002: Dewi_RIG|Dewi_Kecil_Jalan
+    7400004: Dewi_RIG|Dewi_Kecil_Lari
+    7400006: Dewi_RIG|T_pose
+    9500000: //RootNode
+    13700000: Cube
+    13700002: Cube.002
+    13700004: Cube.003
+    13700006: Cube.004
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'LeftFoot' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Dewi_RIG
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ctrl_Kaki.L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kaki_Atas.R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kaki_Bawah.L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kaki_Bawah.R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pinggang
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Perut
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Leher
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kepala
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bahu.L
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bahu.R
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tangan_Atas.L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tangan_Atas.R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tangan_Bawah.L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tangan_Bawah.R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tangan.L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tangan.R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone.025
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone.026
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone.027
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Telunjuk01.L
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Telunjuk02.L
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Telunjuk03.L
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tengah01.L
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tengah02.L
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tengah03.L
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Manis01.L
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Manis02.L
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Manis03.L
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kelingking01.L
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kelingking02.L
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kelingking03.L
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone.001
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone.002
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Telunjuk01.R
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Telunjuk02.R
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Telunjuk03.R
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tengah01.R
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tengah02.R
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tengah03.R
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Manis01.R
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Manis02.R
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Manis03.R
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kelingking01.R
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kelingking02.R
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kelingking03.R
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dada
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: test dewi 01(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cube
+      parentName: test dewi 01(Clone)
+      position: {x: -0, y: 0.8263018, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Cube.002
+      parentName: test dewi 01(Clone)
+      position: {x: -0, y: 0.8263018, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Cube.003
+      parentName: test dewi 01(Clone)
+      position: {x: -0, y: 0.8263018, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Cube.004
+      parentName: test dewi 01(Clone)
+      position: {x: -0, y: 0.8263018, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Dewi_RIG
+      parentName: test dewi 01(Clone)
+      position: {x: -0, y: 0.8263018, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Ctrl_Kaki.L
+      parentName: Dewi_RIG
+      position: {x: -0.0010101167, y: 0.0007225272, z: -0.007084286}
+      rotation: {x: 0, y: -0, z: -0.3841733, w: 0.92326105}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+    - name: Kaki_Atas.L
+      parentName: Ctrl_Kaki.L
+      position: {x: -0, y: -1.3038516e-10, z: -5.9604643e-10}
+      rotation: {x: 0.93678737, y: 0.00000008342239, z: -0.00000021293503, w: -0.34989917}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Kaki_Bawah.L
+      parentName: Kaki_Atas.L
+      position: {x: -2.4055197e-10, y: 0.0014184299, z: -5.2037646e-10}
+      rotation: {x: -0.000000085274024, y: 0.93678737, z: -0.34989917, w: -0.00000011029263}
+      scale: {x: 1, y: 0.99999976, z: 0.9999998}
+    - name: Kaki_Bawah.L_end
+      parentName: Kaki_Bawah.L
+      position: {x: -0, y: 0.0008592459, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Pole.L
+      parentName: Ctrl_Kaki.L
+      position: {x: 7.4505804e-11, y: -0.002018319, z: 0.0026719007}
+      rotation: {x: 0, y: 0, z: 1, w: -6.123234e-17}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Pole.L_end
+      parentName: Pole.L
+      position: {x: -0, y: 0.001495839, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ctrl_Kaki.R
+      parentName: Dewi_RIG
+      position: {x: 0.0010470859, y: -0.00038946187, z: -0.007084286}
+      rotation: {x: 0, y: 0, z: 0.13406944, w: 0.990972}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Kaki_Atas.R
+      parentName: Ctrl_Kaki.R
+      position: {x: 3.7252902e-11, y: -1.862645e-10, z: 0}
+      rotation: {x: 0.93678737, y: 0.000000094069165, z: -0.00000024487528, w: -0.34989917}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Kaki_Bawah.R
+      parentName: Kaki_Atas.R
+      position: {x: 2.3645186e-10, y: 0.0014184299, z: 1.8626451e-11}
+      rotation: {x: -0.000000065724855, y: 0.93678737, z: -0.34989914, w: -0.00000011759444}
+      scale: {x: 0.99999994, y: 0.9999998, z: 0.9999998}
+    - name: Kaki_Bawah.R_end
+      parentName: Kaki_Bawah.R
+      position: {x: -0, y: 0.0008592459, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Pole.R
+      parentName: Ctrl_Kaki.R
+      position: {x: -0, y: -0.002018319, z: 0.0026719011}
+      rotation: {x: 0, y: 0, z: 1, w: -6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Pole.R_end
+      parentName: Pole.R
+      position: {x: -0, y: 0.001495839, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Pinggang
+      parentName: Dewi_RIG
+      position: {x: 0.0000025967595, y: 1.4551915e-13, z: -0.0013442355}
+      rotation: {x: 0.67496157, y: -0.026268007, z: -0.028675659, w: 0.7368274}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: Paha.L
+      parentName: Pinggang
+      position: {x: -0.00078714016, y: -0.000052825064, z: -0.000012989393}
+      rotation: {x: 0.34838295, y: -0.08275161, z: 0.93287945, w: 0.038954508}
+      scale: {x: 1.0000005, y: 1.0000019, z: 1.0001955}
+    - name: Betis.L
+      parentName: Paha.L
+      position: {x: 2.1420418e-10, y: 0.0030862882, z: -3.7252902e-11}
+      rotation: {x: 0.08161488, y: -0.7023808, z: 0.08161484, w: 0.70238113}
+      scale: {x: 0.9999999, y: 1.0000005, z: 0.9999996}
+    - name: Betis.L_end
+      parentName: Betis.L
+      position: {x: -0, y: 0.0026802882, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Paha.R
+      parentName: Pinggang
+      position: {x: 0.0007871403, y: -0.000052825075, z: -0.000012989771}
+      rotation: {x: 0.8239802, y: 0.06916958, z: 0.56225616, w: 0.011840906}
+      scale: {x: 1.0000007, y: 1, z: 1.0001962}
+    - name: Betis.R
+      parentName: Paha.R
+      position: {x: 1.8044374e-10, y: 0.0030862885, z: -1.0244548e-10}
+      rotation: {x: 0.105683155, y: -0.69916445, z: 0.10568311, w: 0.69916475}
+      scale: {x: 1, y: 1.0000006, z: 1.000001}
+    - name: Betis.R_end
+      parentName: Betis.R
+      position: {x: -0, y: 0.0026802882, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Perut
+      parentName: Pinggang
+      position: {x: -3.9734158e-13, y: 0.0012649532, z: -6.1845637e-12}
+      rotation: {x: 0.060694367, y: 0.0000001228924, z: -0.0000000070370443, w: 0.9981564}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Dada
+      parentName: Perut
+      position: {x: -2.5609847e-13, y: 0.0016086635, z: -1.0404619e-11}
+      rotation: {x: 0.09825961, y: -0.00000011970515, z: -0.000000011029776, w: 0.9951608}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Bahu.L
+      parentName: Dada
+      position: {x: -0.00008617514, y: 0.0008334689, z: 0.0002120926}
+      rotation: {x: -0.07100567, y: -0.090519734, z: 0.6774938, w: 0.7264754}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Tangan_Atas.L
+      parentName: Bahu.L
+      position: {x: -0.000048388716, y: 0.001052902, z: 0.000052145286}
+      rotation: {x: -0.20590344, y: 0.29228744, z: 0.5936978, w: 0.72089857}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Tangan_Bawah.L
+      parentName: Tangan_Atas.L
+      position: {x: 1.8626451e-11, y: 0.0017376762, z: -1.0710209e-10}
+      rotation: {x: 0.05159601, y: 0.026667004, z: 0.18207514, w: 0.98156786}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tangan.L
+      parentName: Tangan_Bawah.L
+      position: {x: -6.402843e-11, y: 0.0020162107, z: 7.4505804e-11}
+      rotation: {x: 0.040490624, y: -0.000000114734085, z: 9.320869e-10, w: 0.99917996}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: Bone.025
+      parentName: Tangan.L
+      position: {x: -0.00028562185, y: 0.00033999374, z: -0.00009265187}
+      rotation: {x: -0.15755115, y: 0.8790363, z: -0.28597072, w: -0.3474098}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Bone.026
+      parentName: Bone.025
+      position: {x: -9.3132255e-12, y: 0.0002378147, z: 4.4819898e-11}
+      rotation: {x: -0.2259947, y: 0.70293194, z: 0.17072824, w: 0.65243006}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Bone.027
+      parentName: Bone.026
+      position: {x: -3.1432135e-11, y: 0.00015660135, z: 5.122274e-11}
+      rotation: {x: -0.19146705, y: -0.059168972, z: -0.06961533, w: 0.9772375}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.9999999}
+    - name: Bone.027_end
+      parentName: Bone.027
+      position: {x: -0, y: 0.00019352864, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kelingking01.L
+      parentName: Tangan.L
+      position: {x: 0.000275373, y: 0.0007223179, z: 0.000009204913}
+      rotation: {x: -0.1647309, y: -0.6876502, z: 0.16473027, w: 0.6876518}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Kelingking02.L
+      parentName: Kelingking01.L
+      position: {x: 1.3038516e-10, y: 0.00022986875, z: 2.6775523e-11}
+      rotation: {x: -0.3627218, y: 0.6069855, z: 0.3627217, w: 0.606988}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Kelingking03.L
+      parentName: Kelingking02.L
+      position: {x: 4.6566126e-11, y: 0.00019480764, z: -1.0244548e-10}
+      rotation: {x: -0.21818028, y: 0.0000008679484, z: 0.00000009772774, w: 0.97590846}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.9999999}
+    - name: Kelingking03.L_end
+      parentName: Kelingking03.L
+      position: {x: -0, y: 0.00018559053, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Manis01.L
+      parentName: Tangan.L
+      position: {x: 0.0000989832, y: 0.00074822194, z: 0.0000150484775}
+      rotation: {x: -0.096849434, y: -0.70044255, z: 0.09684869, w: 0.70044327}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Manis02.L
+      parentName: Manis01.L
+      position: {x: -2.7939676e-10, y: 0.000229869, z: -3.4924596e-12}
+      rotation: {x: -0.17221485, y: 0.6858145, z: 0.17221464, w: 0.68581533}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Manis03.L
+      parentName: Manis02.L
+      position: {x: 5.820766e-11, y: 0.00019480802, z: -1.8626451e-11}
+      rotation: {x: -0.21817957, y: 0.00000014493632, z: -0.000000046522775, w: 0.97590864}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Manis03.L_end
+      parentName: Manis03.L
+      position: {x: -0, y: 0.00018559053, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Telunjuk01.L
+      parentName: Tangan.L
+      position: {x: -0.00024598843, y: 0.00073675375, z: -0.000011516495}
+      rotation: {x: -0.015250409, y: -0.70694196, z: 0.015249468, w: 0.7069427}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Telunjuk02.L
+      parentName: Telunjuk01.L
+      position: {x: -1.3969838e-11, y: 0.00022986846, z: -1.3154931e-10}
+      rotation: {x: -0.10311862, y: 0.6995468, z: 0.10311844, w: 0.699548}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Telunjuk03.L
+      parentName: Telunjuk02.L
+      position: {x: 1.1408701e-10, y: 0.0001948074, z: 3.0733643e-10}
+      rotation: {x: -0.2181797, y: -0.00000017522092, z: 0.000000085768924, w: 0.97590864}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Telunjuk03.L_end
+      parentName: Telunjuk03.L
+      position: {x: -0, y: 0.00018559086, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tengah01.L
+      parentName: Tangan.L
+      position: {x: -0.00008123512, y: 0.0007587623, z: 0.000007835417}
+      rotation: {x: 0.043769352, y: -0.70575017, z: -0.04377029, w: 0.70575154}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: Tengah02.L
+      parentName: Tengah01.L
+      position: {x: 5.2095855e-11, y: 0.00022986885, z: 4.7148205e-11}
+      rotation: {x: -0.10231176, y: 0.6996646, z: 0.102312505, w: 0.6996671}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: Tengah03.L
+      parentName: Tengah02.L
+      position: {x: 6.4283086e-11, y: 0.00019480776, z: -5.2386893e-11}
+      rotation: {x: -0.21818027, y: 0.0000009070153, z: 0.00000011189324, w: 0.97590846}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tengah03.L_end
+      parentName: Tengah03.L
+      position: {x: -0, y: 0.00018559053, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bahu.R
+      parentName: Dada
+      position: {x: 0.00008617523, y: 0.0008334689, z: 0.00021209256}
+      rotation: {x: -0.54783887, y: -0.46768686, z: -0.41418144, w: 0.55641294}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: Tangan_Atas.R
+      parentName: Bahu.R
+      position: {x: 0.00004838874, y: 0.001052902, z: -0.0000521453}
+      rotation: {x: -0.5586041, y: 0.33570263, z: -0.2751895, w: 0.7067786}
+      scale: {x: 0.9999999, y: 1, z: 0.99999994}
+    - name: Tangan_Bawah.R
+      parentName: Tangan_Atas.R
+      position: {x: -1.2572854e-10, y: 0.001737676, z: -1.8626451e-11}
+      rotation: {x: 0.06195118, y: -0.031193221, z: -0.21861708, w: 0.97334254}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Tangan.R
+      parentName: Tangan_Bawah.R
+      position: {x: 4.6566126e-11, y: 0.0020162116, z: -2.0489097e-10}
+      rotation: {x: -0.0000000046147903, y: 0.99917996, z: 0.040490624, w: -0.00000013345436}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Bone
+      parentName: Tangan.R
+      position: {x: -0.00028562188, y: 0.00033999342, z: 0.00009265177}
+      rotation: {x: -0.20558909, y: 0.7271097, z: 0.36639956, w: 0.5429512}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.99999994}
+    - name: Bone.001
+      parentName: Bone
+      position: {x: 3.7252902e-11, y: 0.00023781472, z: 2.3283064e-10}
+      rotation: {x: -0.04721917, y: 0.88601977, z: 0.09947675, w: 0.45038185}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: Bone.002
+      parentName: Bone.001
+      position: {x: -7.4505804e-11, y: 0.00015660157, z: -1.8626451e-11}
+      rotation: {x: -0.14657287, y: 0.34836447, z: -0.14150028, w: 0.9149515}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.99999994}
+    - name: Bone.002_end
+      parentName: Bone.002
+      position: {x: -0, y: 0.00019352864, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kelingking01.R
+      parentName: Tangan.R
+      position: {x: 0.00027537293, y: 0.00072231767, z: -0.000009204745}
+      rotation: {x: 0.22862943, y: -0.6692993, z: -0.22854728, w: 0.6689792}
+      scale: {x: 0.9999998, y: 0.99999976, z: 0.9999998}
+    - name: Kelingking02.R
+      parentName: Kelingking01.R
+      position: {x: 1.8626451e-11, y: 0.00022986867, z: -7.4505804e-11}
+      rotation: {x: 0.23825318, y: 0.6658953, z: -0.23836367, w: 0.6655837}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Kelingking03.R
+      parentName: Kelingking02.R
+      position: {x: 1.7695129e-10, y: 0.00019480757, z: -6.984919e-11}
+      rotation: {x: 0.48940402, y: -0.0000008885431, z: 0.00000021252414, w: 0.8720572}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Kelingking03.R_end
+      parentName: Kelingking03.R
+      position: {x: -0, y: 0.00018559053, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Manis01.R
+      parentName: Tangan.R
+      position: {x: 0.00009898321, y: 0.00074822176, z: -0.000015048627}
+      rotation: {x: 0.16475333, y: -0.6877975, z: -0.1647069, w: 0.6875046}
+      scale: {x: 0.9999999, y: 0.99999976, z: 0.9999999}
+    - name: Manis02.R
+      parentName: Manis01.R
+      position: {x: 3.352761e-10, y: 0.00022986892, z: -3.7252902e-11}
+      rotation: {x: 0.17217481, y: 0.6859594, z: -0.17224616, w: 0.6856725}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: Manis03.R
+      parentName: Manis02.R
+      position: {x: -5.5879353e-11, y: 0.00019480768, z: -2.4214386e-10}
+      rotation: {x: 0.21817954, y: -0.00000013837544, z: -0.00000019754285, w: 0.9759087}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Manis03.R_end
+      parentName: Manis03.R
+      position: {x: -0, y: 0.00018559053, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Telunjuk01.R
+      parentName: Tangan.R
+      position: {x: -0.00024598854, y: 0.00073675346, z: 0.000011516511}
+      rotation: {x: 0.01524903, y: -0.70696384, z: -0.015250818, w: 0.7069208}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Telunjuk02.R
+      parentName: Telunjuk01.R
+      position: {x: -7.4505804e-11, y: 0.00022986857, z: -1.8626451e-11}
+      rotation: {x: 0.10293718, y: 0.6995949, z: -0.102942646, w: 0.6995526}
+      scale: {x: 1, y: 0.9999998, z: 0.99999994}
+    - name: Telunjuk03.R
+      parentName: Telunjuk02.R
+      position: {x: -1.6763806e-10, y: 0.00019480748, z: 0}
+      rotation: {x: 0.21817961, y: 0.000000105809484, z: -0.0000000539187, w: 0.97590864}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Telunjuk03.R_end
+      parentName: Telunjuk03.R
+      position: {x: -0, y: 0.00018559086, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tengah01.R
+      parentName: Tangan.R
+      position: {x: -0.00008123519, y: 0.0007587622, z: -0.000007835441}
+      rotation: {x: 0.096858315, y: -0.7005913, z: -0.09684069, w: 0.7002943}
+      scale: {x: 0.9999999, y: 0.99999976, z: 1}
+    - name: Tengah02.R
+      parentName: Tengah01.R
+      position: {x: -1.1408701e-10, y: 0.00022986886, z: 7.4505804e-11}
+      rotation: {x: 0.17213532, y: 0.68597037, z: -0.17220685, w: 0.68568134}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Tengah03.R
+      parentName: Tengah02.R
+      position: {x: 7.4505804e-11, y: 0.00019480773, z: 1.11758706e-10}
+      rotation: {x: 0.21818027, y: -0.00000089991755, z: -0.000000007634508, w: 0.97590846}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Tengah03.R_end
+      parentName: Tengah03.R
+      position: {x: -0, y: 0.00018559053, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Leher
+      parentName: Dada
+      position: {x: -3.158771e-12, y: 0.0015121059, z: 3.943569e-11}
+      rotation: {x: 0.07924764, y: -0.0000000024519808, z: -0.000000019049645, w: 0.99685496}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Kepala
+      parentName: Leher
+      position: {x: -7.592078e-12, y: 0.00034722273, z: -8.396455e-11}
+      rotation: {x: -0.13651827, y: 9.844392e-10, z: 0.000000031901923, w: 0.99063754}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cube.001
+      parentName: Kepala
+      position: {x: 2.3446825e-10, y: 0.002288226, z: -0.00026656894}
+      rotation: {x: -0.7544241, y: 0.000000079200454, z: 0.00000008971181, w: 0.6563873}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: Kepala_end
+      parentName: Kepala
+      position: {x: -0, y: 0.0028083469, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

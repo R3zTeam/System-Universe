@@ -1,0 +1,26 @@
+{
+	"lines": [{
+			"key": "koenokatachi",
+			"line": ["Nande ishida ga kidzutsukane to ikenen dayoo..",
+				"Nande ishida ga kidzutsukane to ikenen dayoo..",
+				"#pagar: Kriikrikrikirkkr",
+				"Nigeki no Heroin futten janne zo.",
+				"Nigeki no Heroin futten janne zo."
+			]
+		},
+		{
+			"key": "omaewa",
+			"line": ["Omae wa mou shindeiru"]
+
+		},
+		{"key": "ini adalah sebuah kubus",
+			"line": ["INI ADALAH SEBUAH KUBUS",
+			"INI ADALAH SEBUAH KUBUS"]
+			},
+			{
+			"key": "fire",
+			"line": ["    "]
+			}
+
+	]
+}

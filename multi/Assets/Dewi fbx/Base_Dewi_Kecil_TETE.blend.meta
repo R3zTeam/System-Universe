@@ -1,0 +1,341 @@
+fileFormatVersion: 2
+guid: 6b6510cd16651ae41a815ac40c66b745
+timeCreated: 1522221276
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bahu_L
+    100002: Bahu_R
+    100004: //RootNode
+    100006: Betis_L
+    100008: Betis_R
+    100010: Bone
+    100012: Bone_001
+    100014: Bone_002
+    100016: Bone_025
+    100018: Bone_026
+    100020: Bone_027
+    100022: Ctrl_Kaki_L
+    100024: Ctrl_Kaki_R
+    100026: Cube
+    100028: Cube_001
+    100030: Cube_002
+    100032: Cube_003
+    100034: Cube_004
+    100036: Dada
+    100038: Dewi_RIG
+    100040: Kaki_Atas_L
+    100042: Kaki_Atas_R
+    100044: Kaki_Bawah_L
+    100046: Kaki_Bawah_R
+    100048: Kelingking01_L
+    100050: Kelingking01_R
+    100052: Kelingking02_L
+    100054: Kelingking02_R
+    100056: Kelingking03_L
+    100058: Kelingking03_R
+    100060: Kepala
+    100062: Leher
+    100064: Manis01_L
+    100066: Manis01_R
+    100068: Manis02_L
+    100070: Manis02_R
+    100072: Manis03_L
+    100074: Manis03_R
+    100076: Paha_L
+    100078: Paha_R
+    100080: Perut
+    100082: Pinggang
+    100084: Pole_L
+    100086: Pole_R
+    100088: Tangan_Atas_L
+    100090: Tangan_Atas_R
+    100092: Tangan_Bawah_L
+    100094: Tangan_Bawah_R
+    100096: Tangan_L
+    100098: Tangan_R
+    100100: Telunjuk01_L
+    100102: Telunjuk01_R
+    100104: Telunjuk02_L
+    100106: Telunjuk02_R
+    100108: Telunjuk03_L
+    100110: Telunjuk03_R
+    100112: Tengah01_L
+    100114: Tengah01_R
+    100116: Tengah02_L
+    100118: Tengah02_R
+    100120: Tengah03_L
+    100122: Tengah03_R
+    400000: Bahu_L
+    400002: Bahu_R
+    400004: //RootNode
+    400006: Betis_L
+    400008: Betis_R
+    400010: Bone
+    400012: Bone_001
+    400014: Bone_002
+    400016: Bone_025
+    400018: Bone_026
+    400020: Bone_027
+    400022: Ctrl_Kaki_L
+    400024: Ctrl_Kaki_R
+    400026: Cube
+    400028: Cube_001
+    400030: Cube_002
+    400032: Cube_003
+    400034: Cube_004
+    400036: Dada
+    400038: Dewi_RIG
+    400040: Kaki_Atas_L
+    400042: Kaki_Atas_R
+    400044: Kaki_Bawah_L
+    400046: Kaki_Bawah_R
+    400048: Kelingking01_L
+    400050: Kelingking01_R
+    400052: Kelingking02_L
+    400054: Kelingking02_R
+    400056: Kelingking03_L
+    400058: Kelingking03_R
+    400060: Kepala
+    400062: Leher
+    400064: Manis01_L
+    400066: Manis01_R
+    400068: Manis02_L
+    400070: Manis02_R
+    400072: Manis03_L
+    400074: Manis03_R
+    400076: Paha_L
+    400078: Paha_R
+    400080: Perut
+    400082: Pinggang
+    400084: Pole_L
+    400086: Pole_R
+    400088: Tangan_Atas_L
+    400090: Tangan_Atas_R
+    400092: Tangan_Bawah_L
+    400094: Tangan_Bawah_R
+    400096: Tangan_L
+    400098: Tangan_R
+    400100: Telunjuk01_L
+    400102: Telunjuk01_R
+    400104: Telunjuk02_L
+    400106: Telunjuk02_R
+    400108: Telunjuk03_L
+    400110: Telunjuk03_R
+    400112: Tengah01_L
+    400114: Tengah01_R
+    400116: Tengah02_L
+    400118: Tengah02_R
+    400120: Tengah03_L
+    400122: Tengah03_R
+    2100000: Material
+    2100002: Material_001
+    4300000: Cube_004
+    4300002: Cube_003
+    4300004: Cube_002
+    4300006: Cube
+    4300008: Cube_001
+    7400000: Default Take
+    7400002: Dewi_Kecil_Idle
+    7400004: Dewi_Kecil_Jalan
+    7400006: Dewi_Kecil_Lari
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Cube
+    13700002: Cube_001
+    13700004: Cube_002
+    13700006: Cube_003
+    13700008: Cube_004
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: <Root Transform>
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: -1
+      lastFrame: 44
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Dewi_Kecil_Idle
+      takeName: Dewi_Kecil_Idle
+      firstFrame: -1
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Dewi_Kecil_Jalan
+      takeName: Dewi_Kecil_Jalan
+      firstFrame: -1
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Dewi_Kecil_Lari
+      takeName: Dewi_Kecil_Lari
+      firstFrame: -1
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

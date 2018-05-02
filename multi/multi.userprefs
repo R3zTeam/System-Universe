@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\dialog.txt">
+    <Files>
+      <File FileName="Assets\scripts\ScriptManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\PlaySubtitle.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\VoiceOverText.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\VoiceOverLine.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SubtitleGuiManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ButtonIntrac.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\dialog.txt" Line="16" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

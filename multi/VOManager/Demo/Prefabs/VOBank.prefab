@@ -1,0 +1,477 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &175538
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 484674}
+  - component: {fileID: 11415370}
+  - component: {fileID: 11464010}
+  - component: {fileID: 8215372}
+  m_Layer: 0
+  m_Name: VOBank
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &484674
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 175538}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!82 &8215372
+AudioSource:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 175538}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 0
+  m_Volume: 0.5
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+--- !u!114 &11415370
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 175538}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c4cb45a5a8552a44b5e82ed7ad0d958, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  uiTextObject: {fileID: 0}
+--- !u!114 &11464010
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 175538}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b5c4c476083c049aacc6157e89c4c8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bank:
+  - id: 0
+    audClp: {fileID: 8300000, guid: 448a2209d8de43e469b1f40fa1c85f02, type: 3}
+    strName: Hanging Picture Woman - 1
+    blnExpandClipPnl: 0
+    subtitle: (Stranger 2) Not sure. You think it would look better over there?
+  - id: 1
+    audClp: {fileID: 8300000, guid: 318f6df04bdd8c14e9013318454f94df, type: 3}
+    strName: Hanging Picture Woman - 2
+    blnExpandClipPnl: 0
+    subtitle: (Stranger 2) Why can't it be up to both of us? I mean, we live here,
+      right?
+  - id: 2
+    audClp: {fileID: 8300000, guid: 8e1da66cc40437649b814465a22441bd, type: 3}
+    strName: Hanging Picture Woman - 3
+    blnExpandClipPnl: 0
+    subtitle: (Stranger 2) Gawdy? Goodness, you have no taste. Anyway, just put it
+      over there and let me see it.
+  - id: 3
+    audClp: {fileID: 8300000, guid: 6600d470e3cab8147b98bf31e6d2b330, type: 3}
+    strName: Hanging Picture Woman - 4
+    blnExpandClipPnl: 0
+    subtitle: (Stranger 2) Yeah, I guess so. No, not there. Try right here.
+  - id: 4
+    audClp: {fileID: 8300000, guid: c0f38f13b6ffe984aaae876615075dbd, type: 3}
+    strName: Hanging Picture Woman - 5
+    blnExpandClipPnl: 0
+    subtitle: (Stranger 2) Yes. Hold it.
+  - id: 5
+    audClp: {fileID: 8300000, guid: 151106e2232ea6040a4164dae5c330d8, type: 3}
+    strName: Hanging Picture Woman - 6
+    blnExpandClipPnl: 0
+    subtitle: (Stranger 2) Yep. That's it. Let's keep it there.
+  - id: 6
+    audClp: {fileID: 8300000, guid: 94475e2ae022ff043b68b67e73b744bf, type: 3}
+    strName: Hanging Picture Woman - 7
+    blnExpandClipPnl: 0
+    subtitle: (Stranger 2) Gawdy, huh?
+  - id: 7
+    audClp: {fileID: 8300000, guid: 70c03b3be3812dd498231e009d08c68b, type: 3}
+    strName: Hanging Picture Woman - 8
+    blnExpandClipPnl: 0
+    subtitle: (Stranger 2) That's a weird word. Gawdy.
+  - id: 8
+    audClp: {fileID: 8300000, guid: f1f66fb4f62becd42958482c024d8302, type: 3}
+    strName: Hanging Picture Woman - 9
+    blnExpandClipPnl: 0
+    subtitle: (Stranger 2) Okay, let's go eat some of that gawdy food you cooked.
+  - id: 13
+    audClp: {fileID: 8300000, guid: 39a75ce27bbbc7947816dc8f976f8d60, type: 3}
+    strName: Hanging Picture Male - 1
+    blnExpandClipPnl: 0
+    subtitle: (Stranger 1) So, what do you think?
+  - id: 14
+    audClp: {fileID: 8300000, guid: 9393ef92fe5a1824f877892ac83161b0, type: 3}
+    strName: Hanging Picture Male - 2
+    blnExpandClipPnl: 0
+    subtitle: (Stranger 1) Honestly, it's up to you.
+  - id: 15
+    audClp: {fileID: 8300000, guid: 2f03a699b92f5c04ea1d7302c6fa47f9, type: 3}
+    strName: Hanging Picture Male - 3
+    blnExpandClipPnl: 0
+    subtitle: (Stranger 1) Yeah, but I never really liked this picture. It's just
+      so gawdy.
+  - id: 16
+    audClp: {fileID: 8300000, guid: 1728c3311eebf98438f4487b6f678ae2, type: 3}
+    strName: Hanging Picture Male - 4
+    blnExpandClipPnl: 0
+    subtitle: (Stranger 1) I have plenty of taste, it usually has to do with food
+      and I know food.  I don't know art. Never have and you know that.
+  - id: 17
+    audClp: {fileID: 8300000, guid: 44ed009373c0b97479cc59e657da5785, type: 3}
+    strName: Hanging Picture Male - 5
+    blnExpandClipPnl: 0
+    subtitle: (Stranger 1) Okay. Here?
+  - id: 18
+    audClp: {fileID: 8300000, guid: 34f37fb46528e0d4eba9bb62b1446a50, type: 3}
+    strName: Hanging Picture Male - 6
+    blnExpandClipPnl: 0
+    subtitle: (Stranger 1) Holding.
+  - id: 19
+    audClp: {fileID: 8300000, guid: ace1d83194fd156429ee147188845bca, type: 3}
+    strName: Hanging Picture Male - 7
+    blnExpandClipPnl: 0
+    subtitle: (Stranger 1) Gotcha. There it shall stay.
+  - id: 20
+    audClp: {fileID: 8300000, guid: 681f333dff4421a4591a59856e6d491b, type: 3}
+    strName: Hanging Picture Male - 8
+    blnExpandClipPnl: 0
+    subtitle: (Stranger 1) Yes, gawdy.  I think it's just gawdy.
+  - id: 21
+    audClp: {fileID: 8300000, guid: 881863be129e4da468977d2ac1966df6, type: 3}
+    strName: Hanging Picture Male - 9
+    blnExpandClipPnl: 0
+    subtitle: (Stranger 1) Yeah, but it explains how I feel perfectly.
+  - id: 22
+    audClp: {fileID: 8300000, guid: 3ab413e870b307e43957091ba89be897, type: 3}
+    strName: Hanging Picture Male - 10
+    blnExpandClipPnl: 0
+    subtitle: (Stranger 1) What-ever! My food is not gawdy. It's very tasty...
+  - id: 23
+    audClp: {fileID: 8300000, guid: 1f7084baf30370745b128ca0d0d7bdff, type: 3}
+    strName: Interviewer - 1
+    blnExpandClipPnl: 0
+    subtitle: (Interviewer) Thank you so much for joining us today, we are taking
+      a break from our regular fare in order to bring you an interview from one of
+      the most hated men in America today, please welcome Jim Corvish!
+  - id: 24
+    audClp: {fileID: 8300000, guid: 7417c02104bc1f54ab506061fb505484, type: 3}
+    strName: Interviewer - 2
+    blnExpandClipPnl: 0
+    subtitle: (Interviewer) No, thanks for being here. I know your schedule is rather
+      full these days, why don't you tell us why?
+  - id: 25
+    audClp: {fileID: 8300000, guid: 62d97439fc608324bba1005b25cd6ce3, type: 3}
+    strName: Interviewer - 3
+    blnExpandClipPnl: 0
+    subtitle: (Interviewer) And what would that be?
+  - id: 26
+    audClp: {fileID: 8300000, guid: 670d9e8d319e74147873238b6b1f381e, type: 3}
+    strName: Interviewer - 4
+    blnExpandClipPnl: 0
+    subtitle: (Interviewer) Truly, inspirational stuff. And you do this every morning,
+      is that right?
+  - id: 27
+    audClp: {fileID: 8300000, guid: f8a997dd01505184d84816971a1b3b92, type: 3}
+    strName: Interviewer - 5
+    blnExpandClipPnl: 0
+    subtitle: (Interviewer) I hear tell you actually wake up very early indeed, what
+      with all the assassination attempts and what, plus your scheduling seems rather
+      slap-dash at times based on keeping an unpredictable time chart.  Honestly,
+      it all sounds VERY exhausting indeed.
+  - id: 28
+    audClp: {fileID: 8300000, guid: c42abd8869e9928478ccc41bfe3ff4f7, type: 3}
+    strName: Interviewer - 6
+    blnExpandClipPnl: 0
+    subtitle: (Interviewer) Fascinating. And what goes on that waffle? Anything special?
+  - id: 29
+    audClp: {fileID: 8300000, guid: 3f72d4b2456b5024b843f7f1ba2ff95b, type: 3}
+    strName: Interviewer - 7
+    blnExpandClipPnl: 0
+    subtitle: (Interviewer) Sounds like a decent cheat meal to me. Jim, thanks so
+      much for coming out today, Jim Corvish everyone!
+  - id: 30
+    audClp: {fileID: 8300000, guid: 87c8dec3801cf9c49ba454fbec0b2320, type: 3}
+    strName: Interviewer - 8
+    blnExpandClipPnl: 0
+    subtitle: (Interviewer) We'll be right back after these messages, folks so don't
+      go away.
+  - id: 31
+    audClp: {fileID: 8300000, guid: 5f7895627791f13449dbd985617e4fd2, type: 3}
+    strName: Interviewee - 1
+    blnExpandClipPnl: 0
+    subtitle: (Jim) Hey, thanks for having me.
+  - id: 32
+    audClp: {fileID: 8300000, guid: f7c89891bac219a4aa0aeacf11d36d14, type: 3}
+    strName: Interviewee - 2
+    blnExpandClipPnl: 0
+    subtitle: (Jim) Well, honestly, taking over a country and oppressing an entire
+      populous is rather tiring. I mean, you've got all the ne'er-do-wells and political
+      adversity just creating a fuss and all and you just wanna get down to business
+      as quickly as possible...
+  - id: 33
+    audClp: {fileID: 8300000, guid: 571294dab3b1aca40a2fa7ce79377298, type: 3}
+    strName: Interviewee - 3
+    blnExpandClipPnl: 0
+    subtitle: (Jim) The money, really. It's all about stealing the priceless jewels
+      and artwork, sculptures, gold bars, paper money, coins, heirlooms, even silver
+      baby rattles and gold teeth, I mean, come on, it's a dictatorship, if I can't
+      take what I want, then I don't know why I got into the game, really.
+  - id: 34
+    audClp: {fileID: 8300000, guid: 8e8a851e7e46f3e4a9d4e9a12cb98870, type: 3}
+    strName: Interviewee - 4
+    blnExpandClipPnl: 0
+    subtitle: (Jim) Yes.
+  - id: 35
+    audClp: {fileID: 8300000, guid: af32bdb02947fb64b9c4b148b120bbc8, type: 3}
+    strName: Interviewee - 5
+    blnExpandClipPnl: 0
+    subtitle: (Jim) Yes, it really is. Takes a toll on oneself, but I stay fit and
+      eat as best I can. Salad here and there along with oats and honey for breakfast,
+      couple of fried eggs for lunch, tea time at noon and all and finish the day
+      with a couple bits of dry toast and a waffle of sorts.
+  - id: 36
+    audClp: {fileID: 8300000, guid: eace5ebc1a865094f82817997b0cc326, type: 3}
+    strName: Interviewee - 6
+    blnExpandClipPnl: 0
+    subtitle: (Jim) Usually the tears of my enemies and the downtrodden. No, seriously,
+      plain mostly, but some days I pour a bit of melted butter over it to really
+      cheat my day, you know? Keeping things fresh from time to time.
+  - id: 37
+    audClp: {fileID: 8300000, guid: 22aaa4da33d445f48b9d06d0356dca35, type: 3}
+    strName: Interviewee - 7
+    blnExpandClipPnl: 0
+    subtitle: (Jim) Thank you, thank you.
+  - id: 38
+    audClp: {fileID: 8300000, guid: f21456cab9b3b2442b62ccedc5c086da, type: 3}
+    strName: Broadcast 1 - Part 1
+    blnExpandClipPnl: 0
+    subtitle: '(Danny) Hello and welcome to the 3 o''clock news block. As always,
+      I am Danny Barone. '
+  - id: 39
+    audClp: {fileID: 8300000, guid: a2203476f20189a47975874216cf773a, type: 3}
+    strName: Broadcast 1 - Part 2
+    blnExpandClipPnl: 0
+    subtitle: '(Danny) First up we have a woman in Colorado that has been arrested
+      for feeding the local bird population too much food. '
+  - id: 40
+    audClp: {fileID: 8300000, guid: de008cee42e8b2b458575d1bb051a983, type: 3}
+    strName: Broadcast 1 - Part 3
+    blnExpandClipPnl: 0
+    subtitle: '(Danny) Sources say that she has been feeding the birds in the area
+      for the past twenty years and never thought anything about it until recently
+      when it was discovered that the birds were becoming obese.  '
+  - id: 41
+    audClp: {fileID: 8300000, guid: f571476022689dd47844a99e91cd63b1, type: 3}
+    strName: Broadcast 1 - Part 4
+    blnExpandClipPnl: 0
+    subtitle: '(Danny) Yes, fat birds rolling around the yard, as they say, no ability
+      to fly at this point being so heavy. '
+  - id: 42
+    audClp: {fileID: 8300000, guid: a065b090c051bca419929be9a67ebe46, type: 3}
+    strName: Broadcast 1 - Part 5
+    blnExpandClipPnl: 0
+    subtitle: (Danny) She has been charged with felony bird engorgement, her bail
+      has been set at 1 million dollars.
+  - id: 43
+    audClp: {fileID: 8300000, guid: 777e903eea6c36a479e03e40d3ec9334, type: 3}
+    strName: Broadcast 2 - Part 1
+    blnExpandClipPnl: 0
+    subtitle: (Danny) Up next is a pair of men in the East Andies that went out for
+      a ski totally nude.
+  - id: 44
+    audClp: {fileID: 8300000, guid: 77dd6fbf4f7e7fa46b76c47d63895508, type: 3}
+    strName: Broadcast 2 - Part 2
+    blnExpandClipPnl: 0
+    subtitle: (Danny) They created quite the scene to be sure.
+  - id: 45
+    audClp: {fileID: 8300000, guid: 6ff6ed67267513f44b5b8a46f2973bb1, type: 3}
+    strName: Broadcast 2 - Part 3
+    blnExpandClipPnl: 0
+    subtitle: (Danny) Local authorities were having trouble apprehending them as they
+      seemed to be lighter on their feet than the pursuing officers.
+  - id: 46
+    audClp: {fileID: 8300000, guid: bba4aea5921cd8d4c943b0d930fc441b, type: 3}
+    strName: Broadcast 2 - Part 4
+    blnExpandClipPnl: 0
+    subtitle: (Danny) They were eventually caught and were quoted in saying, "Froyo,
+      snow, yolo."
+  - id: 47
+    audClp: {fileID: 8300000, guid: b719b1cda0efea64b9e0fb30c14639eb, type: 3}
+    strName: Broadcast 3 - Part 1
+    blnExpandClipPnl: 0
+    subtitle: (Danny) Lastly, we have a 40-foot monster attacking Los Angeles California
+      and scaring the folk around the Glenda and Pasadena areas as well.
+  - id: 48
+    audClp: {fileID: 8300000, guid: 7036696bf5467bc42929180aeefe52f3, type: 3}
+    strName: Broadcast 3 - Part 2
+    blnExpandClipPnl: 0
+    subtitle: '(Danny) Only one creature has been sighted so far with a torrent of
+      pictures and phone calls reaching every emergency hotline and news site on the
+      internet.  '
+  - id: 49
+    audClp: {fileID: 8300000, guid: 1223a4141313ea741812f53839c22073, type: 3}
+    strName: Broadcast 3 - Part 3
+    blnExpandClipPnl: 0
+    subtitle: '(Danny) Some people are touting this as the end of the world while
+      others are taking this opportunity to get in on the t-shirt business. '
+  - id: 50
+    audClp: {fileID: 8300000, guid: 8e1f28f6a2378e643ac9b85f2ba13b38, type: 3}
+    strName: Broadcast 3 - Part 4
+    blnExpandClipPnl: 0
+    subtitle: (Danny) That's right, for a limited time, you can purchase your very
+      own t-shirt with a picture of the monster taking a bit out of California on
+      it.
+  - id: 51
+    audClp: {fileID: 8300000, guid: 1feb5678772e69343abb7440dfd2bd66, type: 3}
+    strName: Broadcast 3 - Part 5
+    blnExpandClipPnl: 0
+    subtitle: (Danny) Seems they're selling fairly well too, as one sidewalk vendor
+      has stated "Almost gone. 10,000 bucks in half an hour. Best day I've ever had."  Well,
+      you keep at it, good sir. You keep at it.
+  - id: 52
+    audClp: {fileID: 8300000, guid: b0d861d5289171b46ab026e19a4e6a53, type: 3}
+    strName: Broadcast 3 - Part 6
+    blnExpandClipPnl: 0
+    subtitle: (Danny) And that concludes this 3 o'clock news block.  Until next time,
+      I am Danny Barone and stay safe out there, everyone.
+  - id: 53
+    audClp: {fileID: 8300000, guid: 420a6a7ba42b4a949bf201a09bb86194, type: 3}
+    strName: Bed 1
+    blnExpandClipPnl: 0
+    subtitle: '*sigh* Getting up in the morning is tough.'
+  - id: 54
+    audClp: {fileID: 8300000, guid: 139ba156de47d15468c042d0ed0da2ef, type: 3}
+    strName: Bed 2
+    blnExpandClipPnl: 0
+    subtitle: This is all such a drag. Can't I sleep in for 5 more minutes?
+  - id: 55
+    audClp: {fileID: 8300000, guid: d0ddc669512615b4ba3c719bd61103ff, type: 3}
+    strName: Bed 3
+    blnExpandClipPnl: 0
+    subtitle: I should really make my bed.
+  - id: 56
+    audClp: {fileID: 8300000, guid: ede777e7792a38b42bab97a217408fe4, type: 3}
+    strName: Bookshelf 1
+    blnExpandClipPnl: 0
+    subtitle: Too many books, too little time.
+  - id: 57
+    audClp: {fileID: 8300000, guid: eb708f16605d2f0438f861b4f10488e6, type: 3}
+    strName: Bookshelf 2
+    blnExpandClipPnl: 0
+    subtitle: I really need to organize these books.
+  - id: 58
+    audClp: {fileID: 8300000, guid: c4c7e4476720a334abfc5a2884f8a6b2, type: 3}
+    strName: Bookshelf 3
+    blnExpandClipPnl: 0
+    subtitle: How to be a game designer...and I can't even program.
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 0}
+      propertyPath: bank.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: bank.Array.data[0].strName
+      value: Clip 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: bank.Array.data[0].blnExpandClipPnl
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 175538}
+  m_IsPrefabParent: 1
